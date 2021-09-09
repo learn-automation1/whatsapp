@@ -3,3 +3,5 @@
 2.Interacting with webelements code
 
 3.Xpath code
+
+4.Closing the browser code
