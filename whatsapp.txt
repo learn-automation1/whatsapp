@@ -6,3 +6,4 @@
 
 4.Closing the browser code
 5.No END
+6.sixth step
